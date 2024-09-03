@@ -1,0 +1,73 @@
+header {
+    text-align: center;
+    /* Centraliza o conteúdo dentro do header */
+    padding: 20px;
+    background-color: aqua;
+
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+    /* Centraliza a imagem horizontalmente */
+}
+
+header nav {
+    margin-top: 10px;
+    /* Espaço entre a imagem e os links */
+}
+
+header nav a {
+    display: inline-block;
+    margin: 0 15px;
+    /* Espaçamento entre os links */
+    text-decoration: underline;
+    color: #333;
+    /* Cor do texto dos links */
+    font-weight: bold;
+}
+
+.center-img {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.cor-subtitle {
+    color: rgb(38, 38, 92);
+}
+
+.font-img {
+    height: 40%;
+    width: 40%;
+}
+
+.text-section1 {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.text-span {
+    color: blue;
+}
+
+.text-section2 {
+    background-color: rgb(108, 162, 241);
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.li-class {
+    list-style-position: inside;
+    padding-left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    text-align: left;
+}
+
+.h1-servico {
+    color: white;
+}
